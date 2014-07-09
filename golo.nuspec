@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Do not remove this test for UTF-8: if “Ω” doesn’t appear as greek uppercase omega letter enclosed in quotation marks, you should use an editor that supports UTF-8, not this one. -->
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>golo</id>
+    <title>Golo</title>
+    <version>1.0.0</version>
+    <authors>INSA-Lyon and contributors</authors>
+    <owners>rlespinasse</owners>
+    <summary>Golo, a lightweight dynamic language for the JVM.</summary>
+    <description>The world didn't need another JVM language. So we built yet another one. A simple one.</description>
+    <projectUrl>http://golo-lang.org/</projectUrl>
+    <tags>golo java invokedynamic lang jvm</tags>
+    <copyright></copyright>
+    <licenseUrl>http://apache.org/licenses/LICENSE-2.0</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <iconUrl>http://golo-lang.org/images/logo-golo.png</iconUrl>
+    <dependencies>
+      <dependency id="binroot" version="" />
+    </dependencies>
+    <releaseNotes>http://golo-lang.org/news/2014/07/09/golo-1.0.0/</releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
