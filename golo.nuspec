@@ -5,8 +5,8 @@
     <id>golo</id>
     <title>Golo</title>
     <version>1.0.0</version>
-    <authors>INSA-Lyon and contributors</authors>
-    <owners>rlespinasse</owners>
+    <authors>INSA-Lyon and Golo-Lang Contributors</authors>
+    <owners>INSA-Lyon and Golo-Lang Contributors</owners>
     <summary>Golo, a lightweight dynamic language for the JVM.</summary>
     <description>The world didn't need another JVM language. So we built yet another one. A simple one.</description>
     <projectUrl>http://golo-lang.org/</projectUrl>
