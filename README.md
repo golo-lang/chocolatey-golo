@@ -2,7 +2,7 @@
 
 ## Golo Windows Package
 
-[Golo](https://github.com/golo-lang/golo-lang), a lightweight dynamic language for the JVM () with the [Chocolatey project](https://chocolatey.org/)
+[Golo](https://github.com/golo-lang/golo-lang), a lightweight dynamic language for the JVM with the [Chocolatey project](https://chocolatey.org/)
 
 ### Installation
 
