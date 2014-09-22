@@ -1,5 +1,5 @@
 try {
-  $package = 'golo-1.0.0'
+  $package = 'golo-1.1.0'
 
   $installDir = "$(Split-Path -parent $MyInvocation.MyCommand.Definition)" 
   ### For BinRoot, use the following instead ###
@@ -8,7 +8,7 @@ try {
   if($env:chocolatey_bin_root -ne $null){$binRoot = join-path $env:systemdrive $env:chocolatey_bin_root}
   $installDir = Join-Path $binRoot $package
   Write-Host "Adding `'$installDir`' to the path and the current shell path"
-  $zipUrl = 'http://search.maven.org/remotecontent?filepath=org/golo-lang/golo/1.0.0/golo-1.0.0-distribution.zip'
+  $zipUrl = 'http://search.maven.org/remotecontent?filepath=org/golo-lang/golo/1.1.0/golo-1.1.0-distribution.zip'
 
   Install-ChocolateyZipPackage 'golo' "$zipUrl" "$binRoot"
   
