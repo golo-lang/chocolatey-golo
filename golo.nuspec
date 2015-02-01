@@ -14,7 +14,7 @@
     <copyright></copyright>
     <licenseUrl>http://apache.org/licenses/LICENSE-2.0</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <iconUrl>http://golo-lang.org/images/logo-golo.png</iconUrl>
+	<iconUrl>https://cdn.rawgit.com/TomOne/various/4ed1815b35a3a442da806ea1223b7fe08b8c425b/golo.png</iconUrl>
     <releaseNotes>http://golo-lang.org/news/2015/01/20/golo-2.0.0/</releaseNotes>
   </metadata>
   <files>
