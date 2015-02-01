@@ -15,9 +15,6 @@
     <licenseUrl>http://apache.org/licenses/LICENSE-2.0</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <iconUrl>http://golo-lang.org/images/logo-golo.png</iconUrl>
-    <dependencies>
-      <dependency id="binroot" version="" />
-    </dependencies>
     <releaseNotes>http://golo-lang.org/news/2015/01/20/golo-2.0.0/</releaseNotes>
   </metadata>
   <files>
