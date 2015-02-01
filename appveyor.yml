@@ -1,0 +1,18 @@
+os: Windows Server 2012
+
+install:
+  - cmd: choco pack golo.nuspec
+
+build: off
+
+test: off
+
+artifacts:
+  - path: '*.nupkg'
+
+deploy:
+  provider: NuGet
+  server: https://chocolatey.org/
+  api_key:
+    secure: DN4dtp5KnmdlqRLlZbr9I6VribLjmoOuvgECklvQw8E9MqIjzRZHBRMMFgdl7VeM
+  artifact: /.*\.nupkg/
