@@ -3,7 +3,6 @@ try {
 
   $installDir = "$(Split-Path -parent $MyInvocation.MyCommand.Definition)" 
   $binRoot = Get-BinRoot
-  if($env:chocolatey_bin_root -ne $null){$binRoot = join-path $env:systemdrive $env:chocolatey_bin_root}
   $installDir = Join-Path $binRoot $package
   Write-Host "Adding `'$installDir`' to the path and the current shell path"
   $zipUrl = 'http://search.maven.org/remotecontent?filepath=org/golo-lang/golo/2.0.0/golo-2.0.0-distribution.zip'
