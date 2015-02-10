@@ -1,5 +1,5 @@
 try {
-  $package = 'golo-2.0.0'
+  $package = 'golo'
   $binRoot = Get-BinRoot
   ### Using an environment variable to to define the bin root until we implement configuration ###
   if($env:chocolatey_bin_root -ne $null){$binRoot = join-path $env:systemdrive $env:chocolatey_bin_root}

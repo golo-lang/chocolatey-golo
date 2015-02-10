@@ -1,5 +1,5 @@
 try {
-  $package = 'golo-2.0.0'
+  $package = 'golo'
 
   $installDir = "$(Split-Path -parent $MyInvocation.MyCommand.Definition)" 
   $binRoot = Get-BinRoot
