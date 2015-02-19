@@ -7,9 +7,9 @@
 ### Installation
 
 ```shell
-C:> cinst golo
+C:> choco install golo
 ```
 
-* [Source](https://github.com/golo-lang/golo-lang/releases/tag/v1.1.0)
-* [Chocolatey Package](https://chocolatey.org/packages/golo/1.1.0)
+* [Source](https://github.com/golo-lang/golo-lang/releases/tag/v2.0.0)
+* [Chocolatey Package](https://chocolatey.org/packages/golo/2.0.0)
 
