@@ -4,7 +4,7 @@
   <metadata>
     <id>golo</id>
     <title>Golo</title>
-    <version>2.0.0</version>
+    <version>2.1.0</version>
     <authors>INSA-Lyon and Golo-Lang Contributors</authors>
     <owners>INSA-Lyon and Golo-Lang Contributors</owners>
     <summary>Golo, a lightweight dynamic language for the JVM.</summary>
@@ -15,7 +15,7 @@
     <licenseUrl>http://apache.org/licenses/LICENSE-2.0</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
 	<iconUrl>https://cdn.rawgit.com/TomOne/various/4ed1815b35a3a442da806ea1223b7fe08b8c425b/golo.png</iconUrl>
-    <releaseNotes>http://golo-lang.org/news/2015/01/20/golo-2.0.0/</releaseNotes>
+    <releaseNotes>http://golo-lang.org/news/2015/03/17/golo-2.1.0/</releaseNotes>
   </metadata>
   <files>
     <file src="tools\**" target="tools" />
