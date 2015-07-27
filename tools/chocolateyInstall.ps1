@@ -5,7 +5,7 @@ try {
   $binRoot = Get-BinRoot
   $installDir = Join-Path $binRoot $package
   Write-Host "Adding `'$installDir`' to the path and the current shell path"
-  $zipUrl = 'http://search.maven.org/remotecontent?filepath=org/golo-lang/golo/2.1.0/golo-2.1.0-distribution.zip'
+  $zipUrl = 'https://www.eclipse.org/downloads/download.php?file=/golo/golo-3.0.0-incubation-M1-distribution.zip&r=1'
 
   Install-ChocolateyZipPackage 'golo' "$zipUrl" "$binRoot"
   
