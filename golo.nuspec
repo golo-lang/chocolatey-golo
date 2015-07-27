@@ -4,18 +4,18 @@
   <metadata>
     <id>golo</id>
     <title>Golo</title>
-    <version>2.1.0</version>
-    <authors>INSA-Lyon and Golo-Lang Contributors</authors>
-    <owners>INSA-Lyon and Golo-Lang Contributors</owners>
+    <version>3.0.0-incubation-M1</version>
+    <authors>Golo-Lang Contributors</authors>
+    <owners>Eclipse Foundation</owners>
     <summary>Golo, a lightweight dynamic language for the JVM.</summary>
     <description>The world didn't need another JVM language. So we built yet another one. A simple one.</description>
     <projectUrl>http://golo-lang.org/</projectUrl>
     <tags>golo java invokedynamic lang jvm</tags>
     <copyright></copyright>
-    <licenseUrl>http://apache.org/licenses/LICENSE-2.0</licenseUrl>
+    <licenseUrl>http://www.eclipse.org/legal/epl-v10.html</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-	<iconUrl>https://cdn.rawgit.com/TomOne/various/4ed1815b35a3a442da806ea1223b7fe08b8c425b/golo.png</iconUrl>
-    <releaseNotes>http://golo-lang.org/news/2015/03/17/golo-2.1.0/</releaseNotes>
+    <iconUrl>https://cdn.rawgit.com/TomOne/various/4ed1815b35a3a442da806ea1223b7fe08b8c425b/golo.png</iconUrl>
+    <releaseNotes>http://golo-lang.org/news/2015/07/27/golo-3.0.0-milestone1</releaseNotes>
   </metadata>
   <files>
     <file src="tools\**" target="tools" />
