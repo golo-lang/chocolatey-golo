@@ -4,7 +4,7 @@
 
 ## Golo Windows Package
 
-[Golo](https://github.com/golo-lang/golo-lang), a lightweight dynamic language for the JVM with the [Chocolatey project](https://chocolatey.org/)
+[Golo](https://github.com/eclipse/golo-lang), a lightweight dynamic language for the JVM with the [Chocolatey project](https://chocolatey.org/)
 
 ### Installation
 
@@ -12,5 +12,5 @@
 C:> choco install golo
 ```
 
-* [Source](https://github.com/golo-lang/golo-lang/releases/tag/v2.0.0)
-* [Chocolatey Package](https://chocolatey.org/packages/golo/2.0.0)
+* [Source](https://github.com/eclipse/golo-lang/releases/tag/milestone%2F3.0.0-incubation-M2)
+* [Chocolatey Package](https://chocolatey.org/packages/golo)
