@@ -12,5 +12,5 @@
 C:> choco install golo
 ```
 
-* [Source](https://github.com/eclipse/golo-lang/releases/tag/milestone%2F3.0.0-incubation-M3)
+* [Source](https://github.com/eclipse/golo-lang/releases/tag/release%2F3.0.0-incubation)
 * [Chocolatey Package](https://chocolatey.org/packages/golo)
