@@ -4,7 +4,7 @@
   <metadata>
     <id>golo</id>
     <title>Golo</title>
-    <version>3.0.0-incubation</version>
+    <version>3.0.0</version>
     <authors>Golo-Lang Contributors</authors>
     <owners>Eclipse Foundation</owners>
     <summary>Golo, a lightweight dynamic language for the JVM.</summary>
