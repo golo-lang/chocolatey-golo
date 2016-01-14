@@ -5,7 +5,7 @@ try {
   $binRoot = Get-BinRoot
   $installDir = Join-Path $binRoot $package
   Write-Host "Adding `'$installDir`' to the path and the current shell path"
-  $zipUrl = 'https://www.eclipse.org/downloads/download.php?file=/golo/golo-3.0.0-incubation.zip&r=1'
+  $zipUrl = 'https://bintray.com/artifact/download/golo-lang/downloads/golo-3.1.0-incubation-M1.zip'
 
   Install-ChocolateyZipPackage 'golo' "$zipUrl" "$binRoot"
 
