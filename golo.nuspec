@@ -3,8 +3,8 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
     <id>golo</id>
-    <title>Golo</title>
-    <version>3.1.0-milestone2</version>
+    <title>Golo-Lang</title>
+    <version>3.1.0</version>
     <authors>Golo-Lang Contributors</authors>
     <owners>Eclipse Foundation</owners>
     <summary>Golo, a lightweight dynamic language for the JVM.</summary>
@@ -15,7 +15,12 @@
     <licenseUrl>http://www.eclipse.org/legal/epl-v10.html</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <iconUrl>https://cdn.rawgit.com/TomOne/various/4ed1815b35a3a442da806ea1223b7fe08b8c425b/golo.png</iconUrl>
-    <releaseNotes>http://golo-lang.org/news/2016/03/02/golo-3.1.0-milestone2</releaseNotes>
+    <releaseNotes>http://golo-lang.org/news/2016/03/21/golo-3.1.0</releaseNotes>
+    <packageSourceUrl>https://github.com/golo-lang/chocolatey-golo</packageSourceUrl>
+    <docsUrl>http://golo-lang.org/documentation/</docsUrl>
+    <mailingListUrl>https://dev.eclipse.org/mailman/listinfo/golo-dev</mailingListUrl>
+    <bugTrackerUrl>https://github.com/eclipse/golo-lang/issues</bugTrackerUrl>
+    <projectSourceUrl>https://github.com/eclipse/golo-lang</projectSourceUrl>
   </metadata>
   <files>
     <file src="tools\**" target="tools" />
