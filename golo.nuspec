@@ -3,7 +3,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
     <id>golo</id>
-    <title>Golo</title>
+    <title>Golo-Lang</title>
     <version>3.1.0</version>
     <authors>Golo-Lang Contributors</authors>
     <owners>Eclipse Foundation</owners>
