@@ -14,5 +14,5 @@ deploy:
   provider: NuGet
   server: https://chocolatey.org/
   api_key:
-    secure: DN4dtp5KnmdlqRLlZbr9I6VribLjmoOuvgECklvQw8E9MqIjzRZHBRMMFgdl7VeM
+    secure: yN+KVR0uldMPN1QEIuAEfRiPUxvJvB4QemM07Vw78Z0=
   artifact: /.*\.nupkg/
