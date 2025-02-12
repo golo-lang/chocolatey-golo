@@ -1,4 +1,4 @@
-#Golo on Windows
+# **Deprecated** Golo on Windows
 
 [![Build status](https://ci.appveyor.com/api/projects/status/p03pnquew3os856n?svg=true)](https://ci.appveyor.com/project/rlespinasse/chocolatey-golo)
 
@@ -9,6 +9,7 @@
 ### Installation
 
 [Chocolatey Package](https://chocolatey.org/packages/golo)
+
 ```shell
 C:> choco install golo
 ```
